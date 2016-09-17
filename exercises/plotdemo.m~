@@ -1,0 +1,9 @@
+f(1) = 1
+f(2) = 1
+
+for ii = 3:20
+    f(ii) = f(ii-2) + f(ii-1);
+end
+
+g= mod(f,3) ~= 0
+f

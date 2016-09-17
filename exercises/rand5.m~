@@ -1,0 +1,3 @@
+function a = rand5(low,high)
+    a = low+rand(4,3)*(high-low)
+  
