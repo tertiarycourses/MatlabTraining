@@ -1,5 +1,5 @@
 # MATLAB Essential Training
-## by [Tertiary Infotech Pte. Ltd] (https://www.tertiarycourses.com.sg/)
+## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [MATLAB Essential Training](https://www.tertiarycourses.com.sg/matlab-essential-training-in-singapore.html) course. 
 
