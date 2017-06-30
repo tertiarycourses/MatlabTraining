@@ -1,4 +1,4 @@
-# MATLAB Essential Training
+# Octave Essential Training
 ## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Octave Essential Training](https://www.tertiarycourses.com.sg/octave-essential-training-in-singapore.html) course. 
