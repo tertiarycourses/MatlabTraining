@@ -1,16 +1,16 @@
 # MATLAB Essential Training
 ## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
 
-These are the exercise files used for [MATLAB Essential Training](https://www.tertiarycourses.com.sg/matlab-essential-training-in-singapore.html) course. 
+These are the exercise files used for [Octave Essential Training](https://www.tertiarycourses.com.sg/octave-essential-training-in-singapore.html) course. 
 
 The course outline can be found in 
 
-https://www.tertiarycourses.com.sg/matlab-essential-training-in-singapore.html
+https://www.tertiarycourses.com.sg/octave-essential-training-in-singapore.html
 
 <p><strong>Module 1 Get Ready</strong></p>
 <ul>
-<li>Intro to MathWork</li>
-<li>Matlab Workspace</li>
+<li>Intro to Octave</li>
+<li>Octave Workspace</li>
 </ul>
 <p><strong>Module 2: Matrices &amp; Operators</strong> </p>
 <ul>
@@ -71,6 +71,4 @@ https://www.tertiarycourses.com.sg/matlab-essential-training-in-singapore.html
 <li>Solving 2nd Order Differential Equations</li>
 <li>Fast Fourier Transform</li>
 </ul>
-<p><strong>Module 10 Intro to Matlab Toolboxes</strong></p>
-<p><br /><br /></p>
-<p>&nbsp;</p>
+<p><strong>Module 10 Intro to Octave Packages</strong></p>
