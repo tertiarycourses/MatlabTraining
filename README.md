@@ -6,6 +6,7 @@ These are the exercise files used for [Octave Essential Training](https://www.te
 The course outline can be found in 
 
 https://www.tertiarycourses.com.sg/octave-essential-training-in-singapore.html
+https://www.tertiarycourses.com.my/octave-essential-training-in-malaysia.html
 
 <p><strong>Module 1 Get Ready</strong></p>
 <ul>
